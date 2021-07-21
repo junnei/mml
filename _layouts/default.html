@@ -48,36 +48,36 @@ layout: table_wrappers
       </a>
     </div>
 
+    <div class="side-theme">
+      <a href="#footer">
+        <button style="width:121.5px;" class="nav-theme">{{ site.data.languages[page.lang].icon }} {{ site.data.languages[page.lang].label }}</button>
+      </a>
+      <button style="width:144.5px;" class="js-toggle-dark-mode nav-theme">Dark Mode 🌑</button>
+      
+      <script>
+      const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+      if (jtd.getTheme() === 'dark') {
+        toggleDarkMode.textContent = 'Light Mode 🌕';
+      }
+      else{
+        toggleDarkMode.textContent = 'Dark Mode 🌑';
+      }
+
+      jtd.addEvent(toggleDarkMode, 'click', function(){
+        if (jtd.getTheme() === 'dark') {
+          jtd.setTheme('light');
+          toggleDarkMode.textContent = 'Dark Mode 🌑';
+        } else {
+          jtd.setTheme('dark');
+          toggleDarkMode.textContent = 'Light Mode 🌕';
+        }
+      });
+      </script>
+    </div>
     
     <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
 
-      <div class="side-theme">
-        <a href="#footer">
-          <button style="width:121.5px;" class="nav-theme">{{ site.data.languages[page.lang].icon }} {{ site.data.languages[page.lang].label }}</button>
-        </a>
-        <button style="width:144.5px;" class="js-toggle-dark-mode nav-theme">Dark Mode 🌑</button>
-        
-        <script>
-        const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
-
-        if (jtd.getTheme() === 'dark') {
-          toggleDarkMode.textContent = 'Light Mode 🌕';
-        }
-        else{
-          toggleDarkMode.textContent = 'Dark Mode 🌑';
-        }
-
-        jtd.addEvent(toggleDarkMode, 'click', function(){
-          if (jtd.getTheme() === 'dark') {
-            jtd.setTheme('light');
-            toggleDarkMode.textContent = 'Dark Mode 🌑';
-          } else {
-            jtd.setTheme('dark');
-            toggleDarkMode.textContent = 'Light Mode 🌕';
-          }
-        });
-        </script>
-      </div>
       {% if site.just_the_docs.collections %}
         {% assign collections_size = site.just_the_docs.collections | size %}
         {% for collection_entry in site.just_the_docs.collections %}
@@ -94,7 +94,6 @@ layout: table_wrappers
       {% else %}
         {% include nav.html pages=site.html_pages %}
       {% endif %}
-    </nav>
     
     <footer id="footer" class="site-footer">
       {% if page.layout != 'index' %}
@@ -112,6 +111,7 @@ layout: table_wrappers
         {% endif %}
       {% endif %}
     </footer>
+  </nav>
   </div>
   <div class="main" id="top">
     <div id="main-header" class="main-header">

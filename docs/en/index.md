@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: Introduction
 lang: en
-lang-ref: home
+lang-ref: introduction
 nav_order: 1
 description: "Index Page"
 permalink: /en

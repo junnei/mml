@@ -196,7 +196,7 @@ hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #eeebee; border:
 
 @media (min-width: 50rem) { .site-title { padding-top: 0.5rem; padding-bottom: 0.5rem; } }
 
-.site-logo { width: 100%; height: 100%; background-image: url("/mml/assets/images/logo.png"); background-repeat: no-repeat; background-position: left center; background-size: contain; transition: all 0.2s linear; }
+.site-logo { width: 100%; height: 100%; background-image: url("https://junnei.github.io/mml/assets/images/logo.png"); background-repeat: no-repeat; background-position: left center; background-size: contain; transition: all 0.2s linear; }
 
 .site-button { display: flex; font-size: 14px; height: 100%; padding: 1rem; align-items: center; }
 

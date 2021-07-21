@@ -53,27 +53,6 @@ layout: table_wrappers
         <button style="width:121.5px;" class="nav-theme">{{ site.data.languages[page.lang].icon }} {{ site.data.languages[page.lang].label }}</button>
       </a>
       <button style="width:144.5px;" class="js-toggle-dark-mode nav-theme">Dark Mode 🌑</button>
-      
-      <script>
-      const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
-
-      if (jtd.getTheme() === 'dark') {
-        toggleDarkMode.textContent = 'Light Mode 🌕';
-      }
-      else{
-        toggleDarkMode.textContent = 'Dark Mode 🌑';
-      }
-
-      jtd.addEvent(toggleDarkMode, 'click', function(){
-        if (jtd.getTheme() === 'dark') {
-          jtd.setTheme('light');
-          toggleDarkMode.textContent = 'Dark Mode 🌑';
-        } else {
-          jtd.setTheme('dark');
-          toggleDarkMode.textContent = 'Light Mode 🌕';
-        }
-      });
-      </script>
     </div>
     
     <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
@@ -199,26 +178,50 @@ layout: table_wrappers
         {% endcapture %}
         
         <hr>
+        <utter>
+        </utter>
+        
         <script>
-          function utterScript(theme) {
-            var scriptTag = document.createElement('script');
-            scriptTag.type = 'text/javascript';
-            scriptTag.async = true;
-            scriptTag.src = "https://utteranc.es/client.js";
-            scriptTag.repo = "junnei/mml";
-            scriptTag.issue-term = "title";
-            scriptTag.theme = theme;
-            scriptTag.crossorigin = "anonymous";
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(scriptTag, s);
-          }
+          const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+    
+          var utter = document.getElementsByTagName("utter")[0];
 
           if (jtd.getTheme() === 'dark') {
-            utterScript("github-dark");
+            toggleDarkMode.textContent = 'Light Mode 🌕';
           }
           else{
-            utterScript("github-light");
+            toggleDarkMode.textContent = 'Dark Mode 🌑';
           }
+    
+          jtd.addEvent(toggleDarkMode, 'click', function(){
+            if (jtd.getTheme() === 'dark') {
+              jtd.setTheme('light');
+              toggleDarkMode.textContent = 'Dark Mode 🌑';
+            } else {
+              jtd.setTheme('dark');
+              toggleDarkMode.textContent = 'Light Mode 🌕';
+            }
+            utter.replaceChild(utterScript(),utter.firstElementChild);
+          });
+
+          function utterScript() {
+            var scriptTag = document.createElement('script');
+            scriptTag.setAttribute("type","text/javascript");
+            scriptTag.setAttribute("src","https://utteranc.es/client.js");
+            scriptTag.setAttribute("repo","junnei/mml");
+            scriptTag.setAttribute("issue-term","title");
+            scriptTag.setAttribute("label","💬");
+            if (jtd.getTheme() === 'dark') {
+              scriptTag.setAttribute("theme","github-dark");
+            }
+            else{
+              scriptTag.setAttribute("theme","github-light");
+            }
+            scriptTag.setAttribute("crossorigin","anonymous");
+            scriptTag.setAttribute("async",true);
+            return scriptTag
+          }
+          utter.appendChild(utterScript());
         </script>
 
         {% if footer_custom != "" or site.last_edit_timestamp or site.gh_edit_link %}

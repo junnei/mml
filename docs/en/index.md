@@ -12,7 +12,7 @@ permalink: /en
 {: .fs-9 }
 
 This site is designed to organize knowledge of machine learning while conducting the "Mathematics for Machine Learning" study.
-{: .fs-6 .fw-800 }
+{: .fs-6 .fw-600 }
 
 
 [PDF Book](https://mml-book.github.io/book/mml-book.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Page](https://mml-book.github.io){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -23,7 +23,7 @@ This site is designed to organize knowledge of machine learning while conducting
 
 Here is an introduction of the people who participated in the study.
 
-Participated in this study with <b>high-quality contents</b> - [Github Repository](https://github.com/junnei/mml/)
+Participated in this study with <b>high-quality contents : [[Github Repository]](https://github.com/junnei/mml/)</b>
 
 <br>
 

@@ -14,10 +14,10 @@ redirect_from:
 {: .fs-9 }
 
 이 사이트는 "Mathematics for Machine Learning" 스터디를 진행하면서,
-{: .fs-6 .fw-800 }
+{: .fs-6 .fw-600 }
 
 머신러닝에 대한 지식들을 체계적으로 정리하기 위해 만들어졌습니다.
-{: .fs-6 .fw-800 }
+{: .fs-6 .fw-600 }
 
 [PDF Book](https://mml-book.github.io/book/mml-book.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Page](https://mml-book.github.io){: .btn .fs-5 .mb-4 .mb-md-0 }
 

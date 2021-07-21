@@ -198,6 +198,16 @@ layout: table_wrappers
           {%- include footer_custom.html -%}
         {% endcapture %}
         
+
+        <script src="https://utteranc.es/client.js"
+          repo="junnei/mml"
+          issue-term="title"
+          label="💬"
+          theme="preferred-color-scheme"
+          crossorigin="anonymous"
+          async>
+        </script>
+
         {% if footer_custom != "" or site.last_edit_timestamp or site.gh_edit_link %}
           <hr>
           <footer>

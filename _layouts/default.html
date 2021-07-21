@@ -182,10 +182,30 @@ layout: table_wrappers
         </utter>
         
         <script>
+          const utter = document.getElementsByTagName("utter")[0];
+
+          function utterScript() {
+            var scriptTag = document.createElement('script');
+            scriptTag.setAttribute("type","text/javascript");
+            scriptTag.setAttribute("src","https://utteranc.es/client.js");
+            scriptTag.setAttribute("repo","junnei/blog");
+            scriptTag.setAttribute("issue-term","title");
+            scriptTag.setAttribute("label","💬");
+            if (jtd.getTheme() === 'dark') {
+              scriptTag.setAttribute("theme","github-dark");
+            }
+            else{
+              scriptTag.setAttribute("theme","github-light");
+            }
+            scriptTag.setAttribute("crossorigin","anonymous");
+            scriptTag.setAttribute("async",true);
+            return scriptTag
+          }
+          
+          utter.appendChild(utterScript());
+          
           const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
     
-          var utter = document.getElementsByTagName("utter")[0];
-
           if (jtd.getTheme() === 'dark') {
             toggleDarkMode.textContent = 'Light Mode 🌕';
           }
@@ -203,25 +223,6 @@ layout: table_wrappers
             }
             utter.replaceChild(utterScript(),utter.firstElementChild);
           });
-
-          function utterScript() {
-            var scriptTag = document.createElement('script');
-            scriptTag.setAttribute("type","text/javascript");
-            scriptTag.setAttribute("src","https://utteranc.es/client.js");
-            scriptTag.setAttribute("repo","junnei/mml");
-            scriptTag.setAttribute("issue-term","title");
-            scriptTag.setAttribute("label","💬");
-            if (jtd.getTheme() === 'dark') {
-              scriptTag.setAttribute("theme","github-dark");
-            }
-            else{
-              scriptTag.setAttribute("theme","github-light");
-            }
-            scriptTag.setAttribute("crossorigin","anonymous");
-            scriptTag.setAttribute("async",true);
-            return scriptTag
-          }
-          utter.appendChild(utterScript());
         </script>
 
         {% if footer_custom != "" or site.last_edit_timestamp or site.gh_edit_link %}

@@ -178,7 +178,7 @@ hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #eeebee; border:
 
 .site-nav.nav-open { display: block; }
 
-@media (min-width: 50rem) { .site-nav { display: block; padding-bottom: 1rem; flex: 1 1 auto; } }
+@media (min-width: 50rem) { .site-nav { display: block; padding-bottom: 1rem; overflow-y: auto; flex: 1 1 auto; } }
 
 .site-header { display: flex; min-height: 110px; align-items: center; transition: all 0.2s linear; }
 

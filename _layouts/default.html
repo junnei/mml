@@ -198,14 +198,27 @@ layout: table_wrappers
           {%- include footer_custom.html -%}
         {% endcapture %}
         
+        <hr>
+        <script>
+          function utterScript(theme) {
+            var scriptTag = document.createElement('script');
+            scriptTag.type = 'text/javascript';
+            scriptTag.async = true;
+            scriptTag.src = "https://utteranc.es/client.js";
+            scriptTag.repo = "junnei/mml";
+            scriptTag.issue-term = "title";
+            scriptTag.theme = theme;
+            scriptTag.crossorigin = "anonymous";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(scriptTag, s);
+          }
 
-        <script src="https://utteranc.es/client.js"
-          repo="junnei/mml"
-          issue-term="title"
-          label="💬"
-          theme="preferred-color-scheme"
-          crossorigin="anonymous"
-          async>
+          if (jtd.getTheme() === 'dark') {
+            utterScript("github-dark");
+          }
+          else{
+            utterScript("github-light");
+          }
         </script>
 
         {% if footer_custom != "" or site.last_edit_timestamp or site.gh_edit_link %}

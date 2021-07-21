@@ -318,11 +318,11 @@ body { position: relative; padding-bottom: 4rem; overflow-y: scroll; }
 
 .nav-list .nav-list-item > .nav-list { display: none; padding-left: 0.75rem; list-style: none; }
 
+.nav-list .nav-list-item > .nav-list .nav-list-link { color: #5c5962; }
+
+.nav-list .nav-list-item > .nav-list .nav-list-expander { color: #5c5962; }
+
 .nav-list .nav-list-item > .nav-list .nav-list-item { position: relative; }
-
-.nav-list .nav-list-item > .nav-list .nav-list-item > .nav-list .nav-list-link { color: #5c5962; }
-
-.nav-list .nav-list-item > .nav-list .nav-list-item > .nav-list .nav-list-expander { color: #5c5962; }
 
 .nav-list .nav-list-item.active > .nav-list-expander svg { transform: rotate(-90deg); }
 

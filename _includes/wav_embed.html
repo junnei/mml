@@ -1,0 +1,6 @@
+<audio
+    preload="auto"
+    controls
+    src="{% if include.assets=='audio' %}{{ site.audio | absolute_url }}{% endif %}{{ include.src }}">
+    Your browser does not support the audio element.
+</audio>

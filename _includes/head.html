@@ -1,0 +1,55 @@
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+  {% unless site.plugins contains "jekyll-seo-tag" %}
+    <title>{{ page.title }} - {{ site.title }}</title>
+
+    {% if page.description %}
+      <meta name="Description" content="{{ page.description }}">
+    {% endif %}
+  {% endunless %}
+  <link rel="apple-touch-icon" sizes="57x57" href="{{ '/favicon/apple-icon-57x57.png' | absolute_url }}">
+  <link rel="apple-touch-icon" sizes="60x60" href="{{ '/favicon/apple-icon-60x60.png' | absolute_url }}">
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ '/favicon/apple-icon-72x72.png' | absolute_url }}">
+  <link rel="apple-touch-icon" sizes="76x76" href="{{ '/favicon/apple-icon-76x76.png' | absolute_url }}">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ '/favicon/apple-icon-114x114.png' | absolute_url }}">
+  <link rel="apple-touch-icon" sizes="120x120" href="{{ '/favicon/apple-icon-120x120.png' | absolute_url }}">
+  <link rel="apple-touch-icon" sizes="144x144" href="{{ '/favicon/apple-icon-144x144.png' | absolute_url }}">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ '/favicon/apple-icon-152x152.png' | absolute_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/favicon/apple-icon-180x180.png' | absolute_url }}">
+  <link rel="icon" type="image/png" sizes="192x192"  href="{{ '/favicon/android-icon-192x192.png' | absolute_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon/favicon-32x32.png' | absolute_url }}">
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ '/favicon/favicon-96x96.png' | absolute_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon/favicon-16x16.png' | absolute_url }}">
+  <link rel="manifest" href="{{ '/favicon/manifest.json' | absolute_url }}">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="{{ '/favicon/ms-icon-144x144.png' | absolute_url }}">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | absolute_url }}">
+
+  {% if site.ga_tracking != nil %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_tracking }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '{{ site.ga_tracking }}'{% unless site.ga_tracking_anonymize_ip == nil %}, { 'anonymize_ip': true }{% endunless %});
+    </script>
+
+  {% endif %}
+
+  {% if site.search_enabled != false %}
+    <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.min.js' | absolute_url }}"></script>
+  {% endif %}
+  <script type="text/javascript" src="{{ '/assets/js/just-the-docs.js' | absolute_url }}"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% seo %}
+
+  {% include head_custom.html %}
+
+</head>

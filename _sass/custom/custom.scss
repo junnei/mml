@@ -1,0 +1,35 @@
+ul.lang-list, ol.lang-list {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    max-width: 900px;
+    width: 100%;
+}
+  
+ul.lang-list li, ol.lang-list li {
+    text-align: center;
+    display: inline-block;
+    padding: 8px 5px;
+    margin: 0px 5px 0px 0px;
+    border: 1px solid $border-color;
+    background-color: $base-button-color;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+ul.lang-list li a, ol.lang-list li a {
+    padding: 8px 5px;
+}
+ul.lang-list li,
+ol.lang-list li {
+    -webkit-transition: background-color 0.1s linear;
+    -moz-transition: background-color 0.1s linear;
+    -ms-transition: background-color 0.1s linear;
+    -o-transition: background-color 0.1s linear;
+    transition: background-color 0.1s linear;
+}
+  
+ul.lang-list li:hover,
+ol.lang-list li:hover {
+    background-color: darken($base-button-color, 1%);
+}

@@ -1,0 +1,18 @@
+<details open markdown="block">
+<summary>
+'{{ include.category }}' 카테고리의 {% if include.all==true %}모든{% else %}다른{% endif %} 글
+</summary>
+{: .text-delta {% if include.all==true %}.fs-3{% endif %} }
+
+{% assign count = 0 %}
+{% assign min = include.id | minus: 2 %}
+{% assign max = include.id | plus: 3 %}
+{% for post in site.pages %}
+    {% if post.parent == include.category %}
+    {% assign count = count | plus: 1 %}
+        {% if count >= min and count < max or include.all==true %}
+{{count}}. <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}{% if post.sub-title %} - {{ post.sub-title }}{% endif %}</a>
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</details>

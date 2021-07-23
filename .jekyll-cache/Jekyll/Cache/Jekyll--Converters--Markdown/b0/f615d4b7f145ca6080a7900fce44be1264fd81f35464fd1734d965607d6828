@@ -1,0 +1,47 @@
+I"�<h1 class="fs-9" id="introducing">Introducing</h1>
+
+<p class="fs-6 fw-600">This site is designed to organize knowledge of machine learning while conducting the “Mathematics for Machine Learning” study.</p>
+
+<p><a href="https://mml-book.github.io/book/mml-book.pdf" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">PDF Book</a> <a href="https://mml-book.github.io" class="btn fs-5 mb-4 mb-md-0">Page</a></p>
+
+<hr />
+
+<h2 id="group-member">Group Member</h2>
+
+<p>Here is an introduction of the people who participated in the study.</p>
+
+<p>Participated in this study with <b>high-quality contents : <a href="https://github.com/junnei/mml/">[Github Repository]</a></b></p>
+
+<p><br /></p>
+
+<h4 id="here-are-contributors-of-mml-study-">Here are contributors of MML Study !</h4>
+
+<ul class="list-style-none">
+
+</ul>
+
+<hr />
+
+<h2 id="open-source-used">Open Source Used</h2>
+
+<p>This page is based on the following author’s creation. Heartily thank you.</p>
+
+<ul>
+  <li><a href="http://patrickmarsceill.com">Just the Docs</a> © 2017-2020</li>
+  <li><a href="https://utteranc.es/">utteranc.es</a> © 2021</li>
+</ul>
+
+<hr />
+
+<h2 id="license">License</h2>
+
+<p><a href="https://github.com/junnei/mml/blob/main/LICENSE">CC BY-NC-SA 3.0 license</a>. Subject to the this copyright.</p>
+
+<p>You can freely use the works on this site without permission if you observe the following:</p>
+
+<ul>
+  <li><strong>Attribution</strong> : You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+  <li><strong>NonCommercial</strong> : You may not use the material for commercial purposes.</li>
+  <li><strong>ShareAlike</strong> : If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original(<code class="language-plaintext highlighter-rouge">CC BY-NC-SA 3.0</code>).</li>
+</ul>
+:ET

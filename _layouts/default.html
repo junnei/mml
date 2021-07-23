@@ -162,15 +162,15 @@ layout: table_wrappers
 
         {% if page.has_children == true and page.has_toc != false %}
           <hr>
-          <h2 id="toc" class="text-delta">Table of contents</h2>
-          <ul>
+          <h2 id="toc" class="text-gamma">'{{ page.title }}' 카테고리의 모든 글</h2>
+          <ol>
             {%- assign children_list = pages_list | where: "parent", page.title | where: "grand_parent", page.parent -%}
             {% for child in children_list %}
               <li>
                 <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>{% if child.summary %} - {{ child.summary }}{% endif %}
               </li>
             {% endfor %}
-          </ul>
+          </ol>
         {% endif %}
 
         {% capture footer_custom %}

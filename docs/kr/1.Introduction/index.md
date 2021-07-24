@@ -6,6 +6,7 @@ lang-ref: introduction
 nav_order: 1
 description: "Index Page"
 permalink: /kr
+date: 20210725
 redirect_from:
   - /
 ---

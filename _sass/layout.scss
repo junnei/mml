@@ -132,7 +132,7 @@
   min-height: $header-height*1.2;
   align-items: center;
   transition: all 0.2s;
-  
+
   @include mq(md) {
     height: $header-height*1.2;
     max-height: $header-height*1.2;

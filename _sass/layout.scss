@@ -132,7 +132,7 @@
   min-height: $header-height*1.2;
   align-items: center;
   transition: all 0.2s;
-
+  
   @include mq(md) {
     height: $header-height*1.2;
     max-height: $header-height*1.2;
@@ -163,7 +163,7 @@
     height: 100%;
     background-image: url($logo);
     background-repeat: no-repeat;
-    background-position: left center;
+    background-position: center center;
     background-size: contain;
     transition: all 0.2s linear;
   }

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: 소개
 lang: kr
 lang-ref: introduction
 nav_order: 1

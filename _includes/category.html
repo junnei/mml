@@ -7,12 +7,17 @@
 {% assign count = 0 %}
 {% assign min = include.id | minus: 2 %}
 {% assign max = include.id | plus: 3 %}
+
+<ol style="counter-reset: step-counter {{ include.id | minus: 3 | at_least: 0 }};">
 {% for post in site.pages %}
     {% if post.parent == include.category %}
     {% assign count = count | plus: 1 %}
         {% if count >= min and count < max or include.all==true %}
-{{count}}. <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}{% if post.sub-title %} - {{ post.sub-title }}{% endif %}</a>
+        <li>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}{% if post.sub-title %} - {{ post.sub-title }}{{post.summary}}{% endif %}</a>
+        </li>
         {% endif %}
     {% endif %}
 {% endfor %}
+</ol>
 </details>

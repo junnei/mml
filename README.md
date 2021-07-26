@@ -6,17 +6,35 @@
     <p align="center">
         A collection of contents studied about "Mathematics for Machine Learning".<br><br>Easily learn from GitHub Pages with high-quality content.
     </p>
+    <h3>
+        <p align="center">
+            <strong>
+                <a href="https://junnei.github.io/mml/en">Go to Project Page!</a>
+            </strong>
+        </p>
+    </h3>
+    <br>
     <p align="center">
-        <strong>
-            <a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a>
-        </strong>
+        <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" alt="CC BY-NC-SA 4.0">
+            <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg">
+        </a>
     </p>
-    <br><br><br>
+    <br><br>
 </p>
 
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+## Group Member
+
+All of them participated in this study with <b>high-quality content!</b>
+
+<b>Thanks goes to these wonderful people :</b>
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars2.githubusercontent.com/u/41983244?v=4" width="128px;"/><br><b>Seongjun Jang</b>](https://github.com/junnei)<br><br><a href="https://junnei.github.io"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="LinkedIn" /></a> <a href="https://www.linkedin.com/in/xun"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="24" title="LinkedIn" /></a> <a href="https://www.instagram.com/worg._.grow"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="24" title="Instagram" /></a> <a href="https://soundcloud.com/ljobavastjqn"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="24" title="SoundCloud" /></a>| Someone else
+| :---: | :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Contributing
 
@@ -71,19 +89,17 @@ Open your browser at [`http://localhost:4000`](http://localhost:4000)
 
 - Open a [Pull Request](https://github.com/junnei/mml/pulls)
 - Await code review
-- Ta-da! You've become a contributor.
+- Ta-da! You've become a contributor!😆
 
-### Design and development principles of this theme:
+### Progress of Studying
 
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
+| Progress  | Contents  | Assigned to   | Update Date | Current Status | 
+|-----------|-----------|---------------|-------------|----------------|
+| Chapter 2.1 - 2.5 | Linear Algebra    |[Seongjun Jang(junnei)](https://github.com/junnei)| 2021-07-30 | ✔️❌
+| Chapter 2.6 - 2.9 | Linear Algebra    |한우정(dnwjddl)                                     | 2021-07-30 | ❌
+| Chapter 3.1 - 3.5   | Analytic Geometry |배지현                                              | 2021-07-30 | ❌
+| Chapter 3.6 - 3.10   | Analytic Geometry |박은비                                              | 2021-08-06 | ❌
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
 
 ## License
 

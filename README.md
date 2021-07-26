@@ -87,6 +87,22 @@ Open your browser at [`http://localhost:4000`](http://localhost:4000)
 
 ### Submitting code changes:
 
+Add your information in `_data/writers.yml`.
+
+```yml
+#ex)
+junnei:
+  kr:
+    name: 장성준
+  en:
+    name: Seongjun Jang
+[YOUR_GITHUB_ID]:
+  kr:
+    name: [YOUR_NAME/KR](홍길동)
+  en:
+    name: [YOUR_NAME/EN](John Doe)
+```
+
 - Open a [Pull Request](https://github.com/junnei/mml/pulls)
 - Await code review
 - Ta-da! You've become a contributor!😆
@@ -110,4 +126,3 @@ This work is licensed under a
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg

@@ -111,10 +111,10 @@ junnei:
 
 | Progress  | Contents  | Assigned to   | Update Date | Current Status | 
 |-----------|-----------|---------------|-------------|----------------|
-| Chapter 2.1 - 2.5 | Linear Algebra    |[Seongjun Jang(junnei)](https://github.com/junnei)| 2021-07-30 | ✔️❌
-| Chapter 2.6 - 2.9 | Linear Algebra    |한우정(dnwjddl)                                     | 2021-07-30 | ❌
-| Chapter 3.1 - 3.5   | Analytic Geometry |배지현                                              | 2021-07-30 | ❌
-| Chapter 3.6 - 3.10   | Analytic Geometry |박은비                                              | 2021-08-06 | ❌
+| Chapter 2.1 - 2.5 | Linear Algebra    |[Seongjun Jang(junnei)](https://github.com/junnei)| 2021-07-31 | ✔️❌
+| Chapter 2.6 - 2.9 | Linear Algebra    |한우정(dnwjddl)                                     | 2021-07-31 | ❌
+| Chapter 3.1 - 3.5   | Analytic Geometry |배지현                                              | 2021-07-31 | ❌
+| Chapter 3.6 - 3.10   | Analytic Geometry |박은비                                              | 2021-08-07 | ❌
 
 
 ## License

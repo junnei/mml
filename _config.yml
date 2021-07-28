@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MML
-description: articles about my experience
+description: Mathematics 4 Machine Learning Study Contents
 baseurl: "/mml" # the subpath of your site, e.g. /blog
 #url: "https://junnei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 

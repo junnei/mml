@@ -2,12 +2,16 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
+  <meta property="og:image" content="{{ site.logo }}">
   {% unless site.plugins contains "jekyll-seo-tag" %}
     <title>{{ page.title }} - {{ site.title }}</title>
 
     {% if page.description %}
       <meta name="Description" content="{{ page.description }}">
+    {% else %}
+      <meta name="Description" content="{{ page.title }} - {{ site.title }}">
     {% endif %}
+  
   {% endunless %}
   <link rel="apple-touch-icon" sizes="57x57" href="{{ '/favicon/apple-icon-57x57.png' | absolute_url }}">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ '/favicon/apple-icon-60x60.png' | absolute_url }}">

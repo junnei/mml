@@ -3,13 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
   <meta property="og:image" content="{{ site.logo | absolute_url }}">
+  <meta property="og:title" content="{{ page.title }} - {{ site.title }}">
   {% unless site.plugins contains "jekyll-seo-tag" %}
     <title>{{ page.title }} - {{ site.title }}</title>
 
     {% if page.description %}
       <meta name="Description" content="{{ page.description }}">
-    {% else %}
-      <meta name="Description" content="{{ page.title }} - {{ site.title }}">
     {% endif %}
   
   {% endunless %}

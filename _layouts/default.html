@@ -12,7 +12,7 @@ layout: table_wrappers
     <div class="site-header">
       <a href="{{ '/' | absolute_url }}" class="site-title lh-tight">{% include title.html %}</a>
       <a href="#" id="menu-button" class="site-button">
-        <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
+        <svg viewBox="0 0 24 24" class="icon" width="24" height="24"><use xlink:href="#svg-menu"></use></svg>
       </a>
     </div>
 
@@ -66,7 +66,7 @@ layout: table_wrappers
         <div class="search">
           <div class="search-input-wrap">
             <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search {{ site.title }} (English Only)" aria-label="Search {{ site.title }}" autocomplete="on">
-            <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
+            <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon" width="24" height="24"><use xlink:href="#svg-search"></use></svg></label>
           </div>
           <div id="search-results" class="search-results"></div>
         </div>
@@ -123,7 +123,7 @@ layout: table_wrappers
       {% endunless %}
       <div id="main-content" class="main-content" role="main">
         {% if site.heading_anchors != false %}
-          {% include vendor/anchor_headings.html html=content beforeHeading="true" anchorBody="<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><use xlink:href=\"#svg-link\"></use></svg>" anchorClass="anchor-heading" anchorAttrs="aria-labelledby=\"%html_id%\"" %}
+          {% include vendor/anchor_headings.html html=content beforeHeading="true" anchorBody="<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\" width=\"24\" height=\"24\"><use xlink:href=\"#svg-link\"></use></svg>" anchorClass="anchor-heading" anchorAttrs="aria-labelledby=\"%html_id%\"" %}
         {% else %}
           {{ content }}
         {% endif %}
@@ -231,7 +231,7 @@ layout: table_wrappers
     {% if site.search_enabled != false %}
       {% if site.search.button %}
         <a href="#" id="search-button" class="search-button">
-          <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-search"></use></svg>
+          <svg viewBox="0 0 24 24" class="icon" width="24" height="24"><use xlink:href="#svg-search"></use></svg>
         </a>
       {% endif %}
 

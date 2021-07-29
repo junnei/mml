@@ -1,9 +1,9 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-
+  
   <meta property="og:image" content="{{ site.logo | absolute_url }}">
-  <meta property="og:title" content="{{ site.title }} - {{ page.title }}">
+  <meta property="og:title" content="{{ page.title }} - {{ site.title }}">
   {% unless site.plugins contains "jekyll-seo-tag" %}
     <title>{{ page.title }} - {{ site.title }}</title>
 
@@ -52,7 +52,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% seo %}
+  {% seo title=false description=false%}
 
   {% include head_custom.html %}
 

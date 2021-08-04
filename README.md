@@ -32,8 +32,8 @@ All of them participated in this study with <b>high-quality content!</b>
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars2.githubusercontent.com/u/41983244?v=4" width="128px;"/><br><b>Seongjun Jang</b>](https://github.com/junnei)<br><br><a href="https://junnei.github.io"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="LinkedIn" /></a> <a href="https://www.linkedin.com/in/xun"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="24" title="LinkedIn" /></a> <a href="https://www.instagram.com/worg._.grow"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="24" title="Instagram" /></a> <a href="https://soundcloud.com/ljobavastjqn"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="24" title="SoundCloud" /></a>| Someone else
-| :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/41983244?v=4" width="128px;"/><br><b>Seongjun Jang</b>](https://github.com/junnei)<br><br><a href="https://junnei.github.io"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> <a href="https://www.linkedin.com/in/xun"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="24" title="LinkedIn" /></a> <a href="https://www.instagram.com/worg._.grow"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="24" title="Instagram" /></a> <a href="https://soundcloud.com/ljobavastjqn"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="24" title="SoundCloud" /></a>| [<img src="https://avatars.githubusercontent.com/u/72767245?v=4" width="128px;"/><br><b>Woojung Han</b>](https://github.com/dnwjddl)<br><br><a href="https://dnwjddl.github.io"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/70308402?v=4" width="128px;"/><br><b>Jihyun Bae</b>](https://github.com/dobby-help)<br><br><a href="https://github.com/dobby-help"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> <a href="https://www.linkedin.com/in/지현-배-7613031b2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="24" title="LinkedIn" /></a> | [<img src="https://avatars.githubusercontent.com/u/69047310?v=4" width="128px;"/><br><b>Eunbi Park</b>](https://github.com/bluvory)<br><br><a href="https://github.com/bluvory"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> |
+| :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Contributing
@@ -113,7 +113,7 @@ junnei:
 |-----------|-----------|---------------|-------------|----------------|
 | Chapter 2.1 - 2.5  | Linear Algebra    |[Seongjun Jang(장성준)](https://github.com/junnei)| 2021-08-01 | ✔️
 | Chapter 2.6 - 2.9  | Linear Algebra    |[Woojung Han(한우정)](https://github.com/dnwjddl) | 2021-08-01 | ✔️
-| Chapter 3.1 - 3.5  | Analytic Geometry |[배지현](https://github.com/dobby-help)           | 2021-08-08 | ❌
+| Chapter 3.1 - 3.5  | Analytic Geometry |[Jihyun Bae(배지현)](https://github.com/dobby-help)           | 2021-08-08 | ❌
 | Chapter 3.6 - 3.10 | Analytic Geometry |[Eunbi Park(박은비)](https://github.com/bluvory)  | 2021-08-08 | ❌
 
 

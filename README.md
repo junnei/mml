@@ -45,6 +45,11 @@ Feel free to contribute with high-quality contents!
 
 ### Requirements
 
+*(If Docker you don't need to install all, just run it and Open your browser at [`http://localhost:4000`](http://localhost:4000))*
+```bash
+$ docker-compose up
+```
+
 First, we need to install ruby (v2.7.3 in my case)
 ```bash
 ## Linux

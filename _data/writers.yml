@@ -10,14 +10,14 @@ dnwjddl:
   en:
     name: Woojung Han
 
-bluvory:
-  kr:
-    name: 박은비
-  en:
-    name: Eunbi Park
-
 dobby-help:
   kr:
     name: 배지현
   en:
     name: dobby
+
+bluvory:
+  kr:
+    name: 박은비
+  en:
+    name: Eunbi Park

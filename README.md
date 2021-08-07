@@ -66,7 +66,7 @@ $ brew install ruby
 And then install `jekyll` :
 
 ```bash
-$ gem install bundler jekyll
+$ gem install bundler:2.1.4 jekyll
 ```
 
 ### Installation

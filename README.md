@@ -45,7 +45,7 @@ Feel free to contribute with high-quality contents!
 
 ### Requirements
 
-*(If Docker you don't need to install all, just run it and Open your browser at [`http://localhost:4000`](http://localhost:4000))*
+*(If Docker you don't need to install all, just run it and Open your browser at [`http://localhost:4000/mml/kr`](http://localhost:4000/mml/kr))*
 ```bash
 $ docker-compose up
 ```
@@ -92,7 +92,7 @@ $ bundle exec jekyll serve
 ```
 This starts a Jekyll server, and now you could test whatever you added.
 
-Open your browser at [`http://localhost:4000`](http://localhost:4000)
+Open your browser at [`http://localhost:4000/mml/kr`](http://localhost:4000/mml/kr)
 
 ### Submitting code changes:
 

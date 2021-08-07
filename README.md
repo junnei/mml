@@ -50,12 +50,10 @@ Feel free to contribute with high-quality contents!
 $ docker-compose up
 ```
 
-First, we need to install ruby (v2.7.3 in my case)
-
-[Ruby - Home page](https://www.ruby-lang.org/ko/downloads/)
+First, we need to install ruby (v2.7.3 in my case) [[Home page]](https://www.ruby-lang.org/ko/downloads/)
 
 
-Windows OS : [Download](https://rubyinstaller.org/downloads/)
+If Windows OS, [Download RubyInstaller](https://rubyinstaller.org/downloads/)
 
 ```bash
 ## Linux

@@ -71,10 +71,10 @@ $ gem install bundler:2.1.4 jekyll
 
 ### Installation
 
-First, fork this repository to your local machine.
+First, fork this repository and clone to your local machine.
 
 ```bash
-$ git fork https://github.com/junnei/mml
+$ git clone https://github.com/[YOUR_GITHUB_ID]/mml
 $ cd mml
 ```
 

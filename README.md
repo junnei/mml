@@ -78,11 +78,18 @@ $ git clone https://github.com/[YOUR_GITHUB_ID]/mml
 $ cd mml
 ```
 
-
 Install gem dependencies by :
 
 ```bash
 $ bundle install
+## if bundler version error, 'bundle _2.1.4_ install'
+```
+
+If Ruby >= 3.0.0, before install gem dependencies :
+
+```bash
+$ bundle add webrick
+## if bundler version error, 'bundle _2.1.4_ add webrick'
 ```
 
 You should preview the site contents before contributing, so just run it by:

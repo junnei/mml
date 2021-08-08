@@ -1,8 +1,3 @@
----
-layout: default
-title: Template
----
-
 ```md
 
 ---

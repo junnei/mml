@@ -1,4 +1,4 @@
-ex)
+```
 ---
 layout: default
 title: 제목
@@ -45,3 +45,4 @@ ex) Chapter 1 : Systems of Linear Equations
 
 {% include category.html category=page.parent id=[page_num] %}
 
+```

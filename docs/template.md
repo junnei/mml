@@ -1,4 +1,4 @@
-```bash
+```md
 ---
 layout: default
 title: 제목

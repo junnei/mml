@@ -4,6 +4,7 @@ title: Template
 ---
 
 ```md
+
 ---
 layout: default
 title: 제목
@@ -47,7 +48,7 @@ ex) Chapter 1 : Systems of Linear Equations
 [Contents]
 
 ---
-
-{% include category.html category=page.parent id=[page_num] %}
+<!-- id = [page_num] -->
+{% include category.html category=page.parent id=1 %}
 
 ```

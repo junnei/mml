@@ -1,5 +1,9 @@
-```md
+---
+layout: default
+title: template
+---
 
+```md
 ---
 layout: default
 title: 제목

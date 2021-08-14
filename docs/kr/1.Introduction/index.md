@@ -59,11 +59,15 @@ redirect_from:
 
 **Part II: Central Machine Learning Problem**
 
-> 8. When Models Meet Data
-> 9. Linear Regression
-> 10. Dimensionality Reduction with Principal Component Analysis
-> 11. Density Estimation with Gaussian Mixture Models
-> 12. Classification with Support Vector Machines
+<blockquote>
+<ol style="counter-reset: step-counter 7;">
+<li> When Models Meet Data</li>
+<li> Linear Regression </li>
+<li> Dimensionality Reduction with Principal Component Analysis </li>
+<li> Density Estimation with Gaussian Mixture Models </li>
+<li> Classification with Support Vector Machines </li>
+</ol>
+</blockquote>
 
 ---
 

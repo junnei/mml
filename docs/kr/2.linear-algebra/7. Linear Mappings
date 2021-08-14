@@ -55,6 +55,9 @@ $$
 
 ### Isomorphic 
 
+유한한 차원의 Vector Space V 와 W는 dim(V)=dim(W)인 경우 서로 ```Isomorphic```하다고 함
+- 차원이 같은 Vector Space들은 서로 적절한 Linear Mapping을 통해 손실이나 왜곡 없이 자유자재로 변환된다는 것
+
 ## Matrix Representation of Linear Mappings
 ## Basis Change
 ## Image and Kernel

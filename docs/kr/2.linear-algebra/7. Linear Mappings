@@ -28,8 +28,30 @@ Chapter 7 : Linear Mappings
     {:toc}
 
 ---
+## Linearity
+$$\phi (x+y) = \phi(x) + \phi(y)$$
+$$\phi(\lambda x) = \lambda\phi(x)$$
+벡터는 Linear한 성질을 가져 서로 더하고, 스칼라 값을 곱해도 그 결과를 항상 벡터로 유지  
+이러한 성질은 linear mapping에서도 마찬가지  
+Vector Space V 를 W로 변환시키는 Mapping $\phi: V \rightarrow W$라고 할때 $\phi$또한 위의 선형성을 만족
+
+## Def. Linear Mapping
+Vector Spaces V,W에 대해 V를 W로 변환시키는 것을 Linear mapping이라 하고, $\phi:V \rightarrow W$  
+이때 $\phi$ 는 임의의 Vector x,y와 임의의 실수 $\lambda, \psi$ 에 대해 다음과 같은 선형성을 만족시킴  
+$$
+\phi(\lambda x + \psi y) = \lambda \phi(x) + \psi\phi(y)
+$$
 
 ### Injective, Surjective, Bijective
+임의의 Vector Space V, W에 대해 $\phi: V \rightarrow W$인 linear mapping $\phi$가 있으면,  
+다음과 같은 경우 ```Injective```, ```Surjective```, ```Bijective```라함
+
+- Injective: $\phi(x) = \phi(y) 이면 x = y
+- Surjective: $\phi(V) = W$
+- Bijective: injective and surjective
+
+![image](https://user-images.githubusercontent.com/72767245/129447069-182358c4-3537-43c5-a477-cf4d90bc947c.png)
+
 
 ### Isomorphic 
 

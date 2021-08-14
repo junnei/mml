@@ -44,10 +44,32 @@ redirect_from:
 
 ---
 
+## 컨텐츠 목록
+
+이 사이트에서 제공하는 컨텐츠들의 목차는 아래와 같습니다.
+
+**Part I: 머신러닝을 위한 기초 수학**
+> 1. 소개
+> 2. 선형대수학
+> 3. 해석기하학
+> 4. 행렬 분해
+> 5. 벡터 미적분학
+> 6. 확률 분포
+> 7. 연속 최적화
+
+**Part II: Central Machine Learning Problem**
+
+> 8. When Models Meet Data
+> 9. Linear Regression
+> 10. Dimensionality Reduction with Principal Component Analysis
+> 11. Density Estimation with Gaussian Mixture Models
+> 12. Classification with Support Vector Machines
+
+---
 
 ## 홈페이지 구축에 사용한 오픈소스
 
-이 페이지의 원본 소스는 다음의 저자가 만든 것을 활용한 것입니다. 진심으로 감사드립니다.
+이 사이트의 원본 소스는 다음의 저자가 만든 것을 활용한 것입니다. 진심으로 감사드립니다.
 
 - [Just the Docs](http://patrickmarsceill.com) &copy; 2017-2020
 - [utteranc.es](https://utteranc.es/) &copy; 2021

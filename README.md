@@ -78,11 +78,18 @@ $ git clone https://github.com/[YOUR_GITHUB_ID]/mml
 $ cd mml
 ```
 
-
 Install gem dependencies by :
 
 ```bash
 $ bundle install
+## if bundler version error, 'bundle _2.1.4_ install'
+```
+
+If Ruby >= 3.0.0, before install gem dependencies :
+
+```bash
+$ bundle add webrick
+## if bundler version error, 'bundle _2.1.4_ add webrick'
 ```
 
 You should preview the site contents before contributing, so just run it by:
@@ -120,10 +127,14 @@ junnei:
 
 | Progress  | Contents  | Assigned to   | Update Date | Current Status | 
 |-----------|-----------|---------------|-------------|----------------|
-| Chapter 2.1 - 2.5  | Linear Algebra    |[Seongjun Jang(장성준)](https://github.com/junnei)| 2021-08-01 | ✔️
-| Chapter 2.6 - 2.9  | Linear Algebra    |[Woojung Han(한우정)](https://github.com/dnwjddl) | 2021-08-01 | ✔️
-| Chapter 3.1 - 3.5  | Analytic Geometry |[Jihyun Bae(배지현)](https://github.com/dobby-help)           | 2021-08-08 | ❌
-| Chapter 3.6 - 3.10 | Analytic Geometry |[Eunbi Park(박은비)](https://github.com/bluvory)  | 2021-08-08 | ❌
+| Chapter 2.1 - 2.5  | [Linear Algebra](https://junnei.github.io/mml/kr/linear-algebra)    |[Seongjun Jang(장성준)](https://github.com/junnei)| 2021-08-01 | ✔️
+| Chapter 2.6 - 2.9  | [Linear Algebra](https://junnei.github.io/mml/kr/linear-algebra)    |[Woojung Han(한우정)](https://github.com/dnwjddl) | 2021-08-01 | ♻️
+| Chapter 3.1 - 3.5  | [Analytic Geometry](https://junnei.github.io/mml/kr/analytic-geometry) |[Jihyun Bae(배지현)](https://github.com/dobby-help)           | 2021-08-08 | ♻️
+| Chapter 3.6 - 3.10 | [Analytic Geometry](https://junnei.github.io/mml/kr/analytic-geometry) |[Eunbi Park(박은비)](https://github.com/bluvory)  | 2021-08-08 | ♻️
+| Chapter 4.1 - 4.4  | [Matrix Decompositions](https://junnei.github.io/mml/kr/matrix-decompositions)    |[Seongjun Jang(장성준)](https://github.com/junnei)| 2021-08-15 | ♻️
+| Chapter 4.5 - 4.8  | [Matrix Decompositions](https://junnei.github.io/mml/kr/matrix-decompositions)    |[Woojung Han(한우정)](https://github.com/dnwjddl) | 2021-08-15 | ❌
+| Chapter 5.1 - 5.5  | [Vector Calculus](https://junnei.github.io/mml/kr/vector-calculus) |[Jihyun Bae(배지현)](https://github.com/dobby-help)           | 2021-08-22 | ❌
+| Chapter 5.6 - 5.10 | [Vector Calculus](https://junnei.github.io/mml/kr/vector-calculus) |[Eunbi Park(박은비)](https://github.com/bluvory)  | 2021-08-22 | ❌
 
 
 ## License

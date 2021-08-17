@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://junnei.github.io/mml/sitemap.xml

@@ -53,7 +53,7 @@ layout: table_wrappers
           <em>Read this page in a different language:</em>
           <ul class="lang-list" style="list-style: none;">
           {% for post in posts %}
-          <li><a href="{{ site.url }}{{ post.url }}" class="{{ post.lang }}" title="View in {{post.lang}}">{{ site.data.languages[post.lang].icon }} {{ site.data.languages[post.lang].label }}</a></li>
+          <li><a href="{{ site.baseurl }}{{ post.url }}" class="{{ post.lang }}" title="View in {{post.lang}}">{{ site.data.languages[post.lang].icon }} {{ site.data.languages[post.lang].label }}</a></li>
           {% endfor %}
           </ul>
         {% endif %}

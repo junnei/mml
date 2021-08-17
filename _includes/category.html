@@ -14,7 +14,7 @@
     {% assign count = count | plus: 1 %}
         {% if count >= min and count < max or include.all==true %}
         <li>
-            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}{% if post.sub-title %} - {{ post.sub-title }}{{post.summary}}{% endif %}</a>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}{% if post.sub-title %} - {{ post.sub-title }}{{post.summary}}{% endif %}</a>
         </li>
         {% endif %}
     {% endif %}

@@ -15,8 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: MML
 #description: Mathematics 4 Machine Learning Study Contents
-baseurl: "/mml" # the subpath of your site, e.g. /mml
+#baseurl: "/mml" # the subpath of your site, e.g. /mml
 #url: "https://junnei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://junnei.github.io/mml"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE", "lib/", "bin/", "README.md", "Rakefile"

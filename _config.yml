@@ -17,7 +17,7 @@ title: MML
 #description: Mathematics 4 Machine Learning Study Contents
 baseurl: "/mml" # the subpath of your site, e.g. /mml
 #url: "https://junnei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://127.0.0.1:4000"
+url: "https://junnei.github.io"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE", "lib/", "bin/", "README.md", "Rakefile"

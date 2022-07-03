@@ -26,6 +26,7 @@ jj150618:
   kr:
     name: 김정훈
   en:
+<<<<<<< HEAD
     name: Junghun Kim
 
 CheezEun:
@@ -52,3 +53,6 @@ rudgnsdl06:
   en:
     name: Ian Na
     
+=======
+    name: Junghun Kim
+>>>>>>> dbe9bba (update writers.yml)

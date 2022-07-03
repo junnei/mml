@@ -30,7 +30,7 @@ Participated in this study with <b>high-quality contents : [[Github Repository]]
 #### Here are contributors of MML Study !
 
 <ul class="list-style-none">
-{% for contributor in site.contributors %}
+{% for contributor in site.github.contributors %}
   <li class="d-inline-block mr-1">
      <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="64" height="64" alt="{{ contributor.login }}"/></a>
   </li>

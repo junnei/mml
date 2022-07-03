@@ -29,8 +29,6 @@ Participated in this study with <b>high-quality contents : [[Github Repository]]
 
 #### Here are contributors of MML Study !
 
-<ul class="list-style-none">
-</ul>
 
 ---
 

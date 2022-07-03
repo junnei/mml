@@ -21,9 +21,21 @@ bluvory:
     name: 박은비
   en:
     name: Eunbi Park
-
+    
 jj150618:
   kr:
     name: 김정훈
   en:
     name: Junghun Kim
+    
+uyt8989:
+  kr:
+    name: 유경연
+  en:
+    name: Kyungyun Yoo
+
+CheezEun:
+  kr:
+    name: 박상은
+  en:
+    name: Sangeun Park

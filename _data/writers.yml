@@ -34,6 +34,12 @@ CheezEun:
   en:
     name: Sangeun Park
 
+jo0n-lab:
+  kr:
+    name: 최원준
+  en:
+    name: WonJoon Choi
+    
 CSJasper:
   kr:
     name: 강찬희
@@ -47,4 +53,7 @@ rudgnsdl06:
     name: 나경훈
   en:
     name: Ian Na
+<<<<<<< HEAD
 >>>>>>> 56cf416 (writers add - rudgnsdl106)
+=======
+>>>>>>> 07425c9 (add jo0n-lab)

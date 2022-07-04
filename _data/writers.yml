@@ -27,7 +27,7 @@ jj150618:
     name: 김정훈
   en:
     name: Junghun Kim
-    
+
 CheezEun:
   kr:
     name: 박상은
@@ -39,3 +39,9 @@ jo0n-lab:
     name: 최원준
   en:
     name: WonJoon Choi
+    
+CSJasper:
+  kr:
+    name: 강찬희
+  en:
+    name: ChanHee Kang

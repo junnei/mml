@@ -49,4 +49,8 @@ rudgnsdl06:
   kr:
     name: 나경훈
   en:
+<<<<<<< HEAD
     name: Ian Na
+=======
+    name: Ian Na
+>>>>>>> a185a91 (update writers.yml)

@@ -28,7 +28,7 @@ redirect_from:
 
 아래는 스터디에 참여하신 분들의 소개입니다.
 
-[Github 레포지토리](https://github.com/junnei/mml/)를 통해 <b>높은 퀄리티의 컨텐츠 제공</b>으로 스터디에 참여해주셨습니다.
+[Github 레포지토리](https://github.com/junnei/mml/tree/gh-pages)를 통해 <b>높은 퀄리티의 컨텐츠 제공</b>으로 스터디에 참여해주셨습니다.
 
 <br>
 
@@ -83,7 +83,7 @@ redirect_from:
 
 ## 라이센스
 
-[CC BY-NC-SA 4.0 license](https://github.com/junnei/mml/blob/main/LICENSE)를 따릅니다. 다음 사항을 지키면 본 사이트에 있는 저작물들을 별도 허락 없이 자유롭게 사용할 수 있습니다.
+[CC BY-NC-SA 4.0 license](https://github.com/junnei/mml/blob/gh-pages/LICENSE)를 따릅니다. 다음 사항을 지키면 본 사이트에 있는 저작물들을 별도 허락 없이 자유롭게 사용할 수 있습니다.
 
 - **저작권정보 표시** : 저작물 이용시 본 블로그 주소와 저작자를 표시해야 합니다.
 - **비영리** : 이 저작물은 영리 목적으로 이용할 수 없습니다.

@@ -36,9 +36,11 @@ redirect_from:
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
+{% if contributor.login in site.data.writers %}
   <li class="d-inline-block mr-1">
      <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="64" height="64" alt="{{ contributor.login }}"/></a>
   </li>
+{% endif %}
 {% endfor %}
 </ul>
 

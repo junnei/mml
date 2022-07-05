@@ -21,13 +21,13 @@ bluvory:
     name: 박은비
   en:
     name: Eunbi Park
-
+    
 jj150618:
   kr:
     name: 김정훈
   en:
     name: Junghun Kim
-  
+    
 CheezEun:
   kr:
     name: 박상은
@@ -39,7 +39,7 @@ jo0n-lab:
     name: 최원준
   en:
     name: WonJoon Choi
-
+    
 CSJasper:
   kr:
     name: 강찬희
@@ -51,3 +51,9 @@ rudgnsdl06:
     name: 나경훈
   en:
     name: Ian Na
+    
+sulogc:
+  kr:
+    name: 임수형
+  en:
+    name: Lim suhyeong

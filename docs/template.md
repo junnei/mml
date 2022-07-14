@@ -1,6 +1,5 @@
 ---
 layout: default
-<<<<<<< HEAD
 title: template
 ---
 
@@ -8,8 +7,6 @@ title: template
 
 ---
 layout: default
-=======
->>>>>>> a7feac1 (fix to run for local)
 title: 제목
 lang: kr
 lang-ref: title(언어에 따라 바뀌지 않는 고유제목)

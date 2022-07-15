@@ -3,7 +3,8 @@ layout: default
 title: template
 ---
 
-```md
+위에건 무시
+
 ---
 layout: default
 title: 제목
@@ -15,12 +16,10 @@ nav_order: [page_num]
 writer: [Github_ID]
 ---
 
-# [Title]
-ex) # 연립 일차 방정식
+# [Title] ex) # 연립 일차 방정식
 {: .no_toc }
 
-[Subtitle]
-ex) Chapter 1 : Systems of Linear Equations
+[Subtitle] ex) Chapter 1 : Systems of Linear Equations
 {: .fs-5 .fw-300 }
 
 

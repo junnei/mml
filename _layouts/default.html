@@ -44,7 +44,7 @@ layout: table_wrappers
     </nav>
     
     <footer id="footer" class="site-footer">
-      {% if page.layout != 'index' %}
+      {% if page.title != '404' %}
         {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
         {% if posts.size == 0 %}
             {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}

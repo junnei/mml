@@ -23,14 +23,14 @@ This site is designed to organize knowledge of machine learning while conducting
 
 Here is an introduction of the people who participated in the study.
 
-Participated in this study with <b>high-quality contents : [[Github Repository]](https://github.com/junnei/mml/tree/gh-pages)</b>
+Participated in this study with <b>high-quality contents : [[Github Repository]](https://github.com/junnei/mml/)</b>
 
 <br>
 
 #### Here are contributors of MML Study !
 
 <ul class="list-style-none">
-{% for contributor in site.github.collaborators %}
+{% for contributor in site.github.contributors %}
   <li class="d-inline-block mr-1">
      <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="64" height="64" alt="{{ contributor.login }}"/></a>
   </li>
@@ -52,7 +52,7 @@ This page is based on the following author's creation. Heartily thank you.
 
 ## License
 
-[CC BY-NC-SA 4.0 license](https://github.com/junnei/mml/blob/gh-pages/LICENSE). Subject to the this copyright.
+[CC BY-NC-SA 4.0 license](https://github.com/junnei/mml/blob/main/LICENSE). Subject to the this copyright.
 
 You can freely use the works on this site without permission if you observe the following:
 

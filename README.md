@@ -141,13 +141,13 @@ junnei:
 | Chapter 3.1 - 3.10  | [`Analytic Geometry (해석기하학)`](https://junnei.github.io/mml/kr/analytic-geometry) | [`Lim SuHyeong(임수형)`](https://github.com/sulogc)<br>[`Wonhyeong Seo(서원형)`](https://github.com/wonhyeongseo)<br>[`JuYoung Suk(석주영)`](https://github.com/scottsuk0306) | 2022-07-17 | ♻️
 | Chapter 4.1 - 4.8   | [`Matrix Decompositions (행렬분해)`](https://junnei.github.io/mml/kr/matrix-decompositions) | [`Wonhyeong Seo(서원형)`](https://github.com/wonhyeongseo)<br>[`Ian Na(나경훈)`](https://github.com/rudgnsdl06) | 2022-07-24 | ♻️
 | Chapter 5.1 - 5.9   | [`Vector Calculus (벡터 미적분학)`](https://junnei.github.io/mml/kr/vector-calculus) | | 2022-07-31 | ❌
-| Chapter 6.1 - 6.8   | [`Probability and Distributions (확률과 분포)`](https://junnei.github.io/mml/kr/probability-and-distributions) | | 2022-08-07 | ❌
+| Chapter 6.1 - 6.8   | [`Probability and Distributions`<br>`(확률과 분포)`](https://junnei.github.io/mml/kr/probability-and-distributions) | | 2022-08-07 | ❌
 | Chapter 7.1 - 7.4   | [`Continuous Optimization (연속 최적화)`](https://junnei.github.io/mml/kr/continuous-optimization) | | 2022-08-14 | ❌
 | Chapter 8.1 - 8.6   | [`When Models Meet Data (모델과 데이터)`](https://junnei.github.io/mml/kr/when-models-meet-data) | | 2022-08-14 | ❌
 | Chapter 9.1 - 9.5   | [`Linear Regression (선형회귀)`](https://junnei.github.io/mml/kr/linear-regression) | | 2022-08-21 | ❌
-| Chapter 10.1 - 10.8 | [`Dimensionality Reduction with Principal`<br>`Component Analysis (차원 축소 w/ PCA)`](https://junnei.github.io/mml/kr/dimensionality-reduction-with-principal-component-analysis) | | 2022-08-21 | ❌
-| Chapter 11.1 - 11.5 | [`Density Estimation with Gaussian Mixture`<br>`Models (밀도 추정)`](https://junnei.github.io/mml/kr/density-estimation-with-gaussian-mixture-models) | | 2022-08-28 | ❌
-| Chapter 12.1 - 12.6 | [`Classification with Support Vector Machines`<br>`(분류 w/ SVM)`](https://junnei.github.io/mml/kr/classification-with-support-vector-machines) | | 2022-08-28 | ❌
+| Chapter 10.1 - 10.8 | [`Dimensionality Reduction with`<br>`Principal Component Analysis`<br>`(차원 축소 w/ PCA)`](https://junnei.github.io/mml/kr/dimensionality-reduction-with-principal-component-analysis) | | 2022-08-21 | ❌
+| Chapter 11.1 - 11.5 | [`Density Estimation with Gaussian`<br>`Mixture Models (밀도 추정)`](https://junnei.github.io/mml/kr/density-estimation-with-gaussian-mixture-models) | | 2022-08-28 | ❌
+| Chapter 12.1 - 12.6 | [`Classification with Support`<br>`Vector Machines (분류 w/ SVM)`](https://junnei.github.io/mml/kr/classification-with-support-vector-machines) | | 2022-08-28 | ❌
 
 </div>
 

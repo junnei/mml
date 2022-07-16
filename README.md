@@ -29,12 +29,18 @@
 All of them participated in this study with <b>high-quality content!</b>
 
 <b>Thanks goes to these wonderful people :</b>
+<div align="center">
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars.githubusercontent.com/u/41983244?v=4" width="128px;"/><br><b>Seongjun Jang</b>](https://github.com/junnei)<br><br><a href="https://junnei.github.io"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> <a href="https://www.linkedin.com/in/xun"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="24" title="LinkedIn" /></a> <a href="https://www.instagram.com/worg._.grow"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="24" title="Instagram" /></a> <a href="https://soundcloud.com/ljobavastjqn"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="24" title="SoundCloud" /></a>| [<img src="https://avatars.githubusercontent.com/u/72767245?v=4" width="128px;"/><br><b>Woojung Han</b>](https://github.com/dnwjddl)<br><br><a href="https://dnwjddl.github.io"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/70308402?v=4" width="128px;"/><br><b>Jihyun Bae</b>](https://github.com/dobby-help)<br><br><a href="https://github.com/dobby-help"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> <a href="https://www.linkedin.com/in/지현-배-7613031b2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="24" title="LinkedIn" /></a> | [<img src="https://avatars.githubusercontent.com/u/69047310?v=4" width="128px;"/><br><b>Eunbi Park</b>](https://github.com/bluvory)<br><br><a href="https://github.com/bluvory"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> |
-| :---: | :---: | :---: | :---: |
+
+| [<img src="https://avatars.githubusercontent.com/u/41983244?v=4" width="128px;"/><br><b>Seongjun Jang</b>](https://github.com/junnei)<br><br><a href="https://junnei.github.io"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> <a href="https://www.linkedin.com/in/xun"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="24" title="LinkedIn" /></a> <a href="https://www.instagram.com/worg._.grow"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="24" title="Instagram" /></a> <a href="https://soundcloud.com/ljobavastjqn"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="24" title="SoundCloud" /></a>| [<img src="https://avatars.githubusercontent.com/u/72767245?v=4" width="128px;"/><br><b>Woojung Han</b>](https://github.com/dnwjddl)<br><br><a href="https://dnwjddl.github.io"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/70308402?v=4" width="128px;"/><br><b>Jihyun Bae</b>](https://github.com/dobby-help)<br><br><a href="https://github.com/dobby-help"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> <a href="https://www.linkedin.com/in/지현-배-7613031b2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="24" title="LinkedIn" /></a> | [<img src="https://avatars.githubusercontent.com/u/69047310?v=4" width="128px;"/><br><b>Eunbi Park</b>](https://github.com/bluvory)<br><br><a href="https://github.com/bluvory"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/57610590?v=4" width="128px;"/><br><b>Junghun Kim</b>](https://github.com/jj150618)<br><br><a href="https://github.com/jj150618"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/108618585?v=4" width="128px;"/><br><b>Sangeun Park</b>](https://github.com/CheezEun)<br><br><a href="https://github.com/CheezEun"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> | 
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/53074255?v=4" width="128px;"/><br><b>WonJoon Choi</b>](https://github.com/jo0n-lab)<br><br><a href="https://github.com/jo0n-lab"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/62165874?v=4" width="128px;"/><br><b>ChanHee Kang</b>](https://github.com/CSJasper)<br><br><a href="https://github.com/CSJasper"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/67286468?v=4" width="128px;"/><br><b>Ian Na</b>](https://github.com/rudgnsdl06)<br><br><a href="https://github.com/rudgnsdl06"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/28620037?v=4" width="128px;"/><br><b>Lim SuHyeong</b>](https://github.com/sulogc)<br><br><a href="https://github.com/sulogc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/81630351?v=4" width="128px;"/><br><b>Kim Juwon</b>](https://github.com/Kim-Ju-won)<br><br><a href="https://github.com/Kim-Ju-won"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/54027397?v=4" width="128px;"/><br><b>Kim YoonJong</b>](https://github.com/kyj098707)<br><br><a href="https://github.com/kyj098707"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> |
+| [<img src="https://avatars.githubusercontent.com/u/39263767?v=4" width="128px;"/><br><b>JuYoung Suk</b>](https://github.com/scottsuk0306)<br><br><a href="https://github.com/scottsuk0306"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/29195190?v=4" width="128px;"/><br><b>Wonhyeong Seo</b>](https://github.com/wonhyeongseo)<br><br><a href="https://github.com/wonhyeongseo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub" /></a> |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+</div>
 
 ## Contributing
 
@@ -124,18 +130,24 @@ junnei:
 - Ta-da! You've become a contributor!😆
 
 ### Progress of Studying
+<div align='center'>
 
-| Progress  | Contents  | Assigned to   | Update Date | Current Status | 
-|-----------|-----------|---------------|-------------|----------------|
-| Chapter 2.1 - 2.5  | [Linear Algebra](https://junnei.github.io/mml/kr/linear-algebra)    |[Seongjun Jang(장성준)](https://github.com/junnei)| 2021-08-01 | ✔️
-| Chapter 2.6 - 2.9  | [Linear Algebra](https://junnei.github.io/mml/kr/linear-algebra)    |[Woojung Han(한우정)](https://github.com/dnwjddl) | 2021-08-01 | ♻️
-| Chapter 3.1 - 3.5  | [Analytic Geometry](https://junnei.github.io/mml/kr/analytic-geometry) |[Jihyun Bae(배지현)](https://github.com/dobby-help)           | 2021-08-08 | ♻️
-| Chapter 3.6 - 3.10 | [Analytic Geometry](https://junnei.github.io/mml/kr/analytic-geometry) |[Eunbi Park(박은비)](https://github.com/bluvory)  | 2021-08-08 | ♻️
-| Chapter 4.1 - 4.4  | [Matrix Decompositions](https://junnei.github.io/mml/kr/matrix-decompositions)    |[Seongjun Jang(장성준)](https://github.com/junnei)| 2021-08-15 | ♻️
-| Chapter 4.5 - 4.8  | [Matrix Decompositions](https://junnei.github.io/mml/kr/matrix-decompositions)    |[Woojung Han(한우정)](https://github.com/dnwjddl) | 2021-08-15 | ❌
-| Chapter 5.1 - 5.5  | [Vector Calculus](https://junnei.github.io/mml/kr/vector-calculus) |[Jihyun Bae(배지현)](https://github.com/dobby-help)           | 2021-08-22 | ❌
-| Chapter 5.6 - 5.10 | [Vector Calculus](https://junnei.github.io/mml/kr/vector-calculus) |[Eunbi Park(박은비)](https://github.com/bluvory)  | 2021-08-22 | ❌
+| Progress  | Contents  | Assigned to   | Update Date | Status | 
+|:----------|:----------|:-------------|:------------|:--------------:|
+| Chapter 2.1 - 2.5   | [Linear Algebra (선형대수)](https://junnei.github.io/mml/kr/linear-algebra) | [Seongjun Jang(장성준)](https://github.com/junnei) | 2022-07-10 | ✔️
+| Chapter 2.6 - 2.9   | [Linear Algebra (선형대수)](https://junnei.github.io/mml/kr/linear-algebra) | [Woojung Han(한우정)](https://github.com/dnwjddl)<br>[Sangeun Park(박상은)](https://github.com/CheezEun)<br>[Junghun Kim(김정훈)](https://github.com/jj150618) | 2022-07-17 | ♻️
+| Chapter 3.1 - 3.10  | [Analytic Geometry (해석기하학)](https://junnei.github.io/mml/kr/analytic-geometry) | [Lim SuHyeong(임수형)](https://github.com/sulogc)<br>[Wonhyeong Seo(서원형)](https://github.com/wonhyeongseo)<br>[JuYoung Suk(석주영)](https://github.com/scottsuk0306) | 2022-07-17 | ♻️
+| Chapter 4.1 - 4.8   | [Matrix Decompositions (행렬분해)](https://junnei.github.io/mml/kr/matrix-decompositions) | [Wonhyeong Seo(서원형)](https://github.com/wonhyeongseo)<br>[Ian Na(나경훈)](https://github.com/rudgnsdl06) | 2022-07-24 | ♻️
+| Chapter 5.1 - 5.9   | [Vector Calculus (벡터 미적분학)](https://junnei.github.io/mml/kr/vector-calculus) | | 2022-07-31 | ❌
+| Chapter 6.1 - 6.8   | [Probability and Distributions (확률과 분포)](https://junnei.github.io/mml/kr/probability-and-distributions) | | 2022-08-07 | ❌
+| Chapter 7.1 - 7.4   | [Continuous Optimization (연속 최적화)](https://junnei.github.io/mml/kr/continuous-optimization) | | 2022-08-14 | ❌
+| Chapter 8.1 - 8.6   | [When Models Meet Data (모델과 데이터)](https://junnei.github.io/mml/kr/when-models-meet-data) | | 2022-08-14 | ❌
+| Chapter 9.1 - 9.5   | [Linear Regression (선형회귀)](https://junnei.github.io/mml/kr/linear-regression) | | 2022-08-21 | ❌
+| Chapter 10.1 - 10.8 | [Dimensionality Reduction with Principal Component Analysis<br>(차원 축소 w/ PCA)](https://junnei.github.io/mml/kr/dimensionality-reduction-with-principal-component-analysis) | | 2022-08-21 | ❌
+| Chapter 11.1 - 11.5 | [Density Estimation with Gaussian Mixture Models<br>(밀도 추정)](https://junnei.github.io/mml/kr/density-estimation-with-gaussian-mixture-models) | | 2022-08-28 | ❌
+| Chapter 12.1 - 12.6 | [Classification with Support Vector Machines (분류 w/ SVM)](https://junnei.github.io/mml/kr/classification-with-support-vector-machines) | | 2022-08-28 | ❌
 
+</div>
 
 ## License
 

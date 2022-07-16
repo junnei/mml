@@ -1,7 +1,9 @@
-{% assign writer = include.writer %}
+{% assign writers = include.writer | split: ", " %}
+{% for writer in writers %}
 {% for contributor in site.github.contributors %}
 {% if contributor.login == writer %}
 <p class="fs-4 fw-200" style="text-align:right;">Edited by / {{ site.data.writers[writer][include.lang].name }} ({{ writer }}) <a href="{{ contributor.html_url }}"><img style="vertical-align:bottom;" src="{{ contributor.avatar_url }}" width="64" height="64" alt="{{ contributor.login }}"/></a>
 </p>
 {% endif %}
+{% endfor %}
 {% endfor %}

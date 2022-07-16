@@ -9,7 +9,8 @@
 {% assign max = include.id | plus: 3 %}
 
 <ol style="counter-reset: step-counter {{ include.id | minus: 3 | at_least: 0 }};">
-{% for post in site.pages %}
+{% assign sorted_pages = site.pages | sort:"nav_order" %}
+{% for post in sorted_pages %}
     {% if post.parent == include.category %}
     {% assign count = count | plus: 1 %}
         {% if count >= min and count < max or include.all==true %}

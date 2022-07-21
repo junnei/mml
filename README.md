@@ -143,12 +143,12 @@ junnei:
 | Chapter 4.1 - 4.8   | [Matrix Decompositions (행렬분해)](https://junnei.github.io/mml/kr/matrix-decompositions) | [`Wonhyeong Seo(서원형)`](https://github.com/wonhyeongseo)<br>[`Ian Na(나경훈)`](https://github.com/rudgnsdl06)<br>[`Jinyoung Son(손진영)`](https://github.com/NiceOneSon) | 2022-07-24 | ♻️
 | Chapter 5.1 - 5.9   | [Vector Calculus (벡터 미적분학)](https://junnei.github.io/mml/kr/vector-calculus) | [`WonJoon Choi(최원준)`](https://github.com/jo0n-lab)<br>[`ChanHee Kang(강찬희)`](https://github.com/CSJasper) | 2022-07-31 | ❌
 | Chapter 6.1 - 6.8   | [Probability and Distributions<br>(확률과 분포)](https://junnei.github.io/mml/kr/probability-and-distributions) | [`Kim YoonJong(김윤종)`](https://github.com/kyj098707)<br>[`Kim Juwon(김주원)`](https://github.com/Kim-Ju-won)<br>[`Minjeong Yoo(유민정)`](https://github.com/Minjeong-Yoo) | 2022-08-07 | ❌
-| Chapter 7.1 - 7.4   | [Continuous Optimizations<br>(연속 최적화)](https://junnei.github.io/mml/kr/continuous-optimization) | | 2022-08-14 | ❌
-| Chapter 8.1 - 8.6   | [When Models Meet Datas<br>(모델과 데이터)](https://junnei.github.io/mml/kr/when-models-meet-data) | | 2022-08-14 | ❌
-| Chapter 9.1 - 9.5   | [Linear Regression (선형회귀)](https://junnei.github.io/mml/kr/linear-regression) | | 2022-08-21 | ❌
-| Chapter 10.1 - 10.8 | [Dimensionality Reduction with<br>Principal Component Analysis<br>(차원 축소 w/ PCA)](https://junnei.github.io/mml/kr/dimensionality-reduction-with-principal-component-analysis) | | 2022-08-21 | ❌
-| Chapter 11.1 - 11.5 | [Density Estimation with<br>Gaussian Mixture Models<br>(밀도 추정)](https://junnei.github.io/mml/kr/density-estimation-with-gaussian-mixture-models) | | 2022-08-28 | ❌
-| Chapter 12.1 - 12.6 | [Classification with<br>Support Vector Machines<br>(분류 w/ SVM)](https://junnei.github.io/mml/kr/classification-with-support-vector-machines) | | 2022-08-28 | ❌
+| Chapter 7.1 - 7.4   | [Continuous Optimizations<br>(연속 최적화)](https://junnei.github.io/mml/kr/continuous-optimization) | [`Lim SuHyeong(임수형)`](https://github.com/sulogc)<br>[`Ian Na(나경훈)`](https://github.com/rudgnsdl06) | 2022-08-14 | ❌
+| Chapter 8.1 - 8.6   | [When Models Meet Datas<br>(모델과 데이터)](https://junnei.github.io/mml/kr/when-models-meet-data) | [`Woojung Han(한우정)`](https://github.com/dnwjddl)<br>[`Junghun Kim(김정훈)`](https://github.com/jj150618)<br>[`WonJoon Choi(최원준)`](https://github.com/jo0n-lab) | 2022-08-14 | ❌
+| Chapter 9.1 - 9.5   | [Linear Regression (선형회귀)](https://junnei.github.io/mml/kr/linear-regression) | [`Kim YoonJong(김윤종)`](https://github.com/kyj098707)<br>[`Kim Juwon(김주원)`](https://github.com/Kim-Ju-won)<br>[`Minjeong Yoo(유민정)`](https://github.com/Minjeong-Yoo) | 2022-08-21 | ❌
+| Chapter 10.1 - 10.8 | [Dimensionality Reduction with<br>Principal Component Analysis<br>(차원 축소 w/ PCA)](https://junnei.github.io/mml/kr/dimensionality-reduction-with-principal-component-analysis) | [`Sangeun Park(박상은)`](https://github.com/CheezEun)<br>[`Seongjun Jang(장성준)`](https://github.com/junnei) | 2022-08-21 | ❌
+| Chapter 11.1 - 11.5 | [Density Estimation with<br>Gaussian Mixture Models<br>(밀도 추정)](https://junnei.github.io/mml/kr/density-estimation-with-gaussian-mixture-models) | [`ChanHee Kang(강찬희)`](https://github.com/CSJasper)<br>[`JuYoung Suk(석주영)`](https://github.com/scottsuk0306) | 2022-08-28 | ❌
+| Chapter 12.1 - 12.6 | [Classification with<br>Support Vector Machines<br>(분류 w/ SVM)](https://junnei.github.io/mml/kr/classification-with-support-vector-machines) | [`Jinyoung Son(손진영)`](https://github.com/NiceOneSon) | 2022-08-28 | ❌
 
 </div>
 

@@ -81,3 +81,14 @@ wonhyeongseo:
     name: 서원형
   en:
     name: Wonhyeong Seo
+
+NiceOneSon:
+  kr:
+    name: 손진영
+  en:
+    name: Jinyoung Son
+Minjeong-Yoo:
+  kr:
+    name: 유민정
+  en:
+    name: Minjeong Yoo

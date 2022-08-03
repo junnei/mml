@@ -12,6 +12,7 @@
     {% endif %}
   
   {% endunless %}
+  
   <link rel="apple-touch-icon" sizes="57x57" href="{{ '/favicon/apple-icon-57x57.png' | absolute_url }}">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ '/favicon/apple-icon-60x60.png' | absolute_url }}">
   <link rel="apple-touch-icon" sizes="72x72" href="{{ '/favicon/apple-icon-72x72.png' | absolute_url }}">
@@ -32,6 +33,19 @@
   <meta name="theme-color" content="#ffffff">
 
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | absolute_url }}">
+  {% if page.assignment == true %}
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script async defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    <style>
+      a{
+        color: #7253ed;
+      }
+      hr{
+        height: 1px;
+        margin: 2rem 0;
+      }
+    </style>
+  {% endif %}
 
   {% if site.ga_tracking != nil %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_tracking }}"></script>
@@ -47,14 +61,6 @@
 
   {% if site.search_enabled != false %}
     <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.min.js' | absolute_url }}"></script>
-  {% endif %}
-  {% if page.assignment == true %}
-    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
-    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
-    <py-env>
-      - numpy
-      - matplotlib
-    </py-env>
   {% endif %}
   <script type="text/javascript" src="{{ '/assets/js/just-the-docs.js' | absolute_url }}"></script>
 

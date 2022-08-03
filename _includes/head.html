@@ -34,8 +34,8 @@
 
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | absolute_url }}">
   {% if page.assignment == true %}
-    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
-    <script async defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    <script async defer src="https://pyscript.net/latest/pyscript.js"></script>
     <style>
       a{
         color: #7253ed;
@@ -43,6 +43,9 @@
       hr{
         height: 1px;
         margin: 2rem 0;
+      }
+      .cm-scroller{
+        font-family: inherit !important;
       }
     </style>
   {% endif %}
